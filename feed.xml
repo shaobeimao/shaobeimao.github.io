@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>烧杯猫资源网</title>
-    <link href="file:///C:\Users\秦克波\Downloads\1\shao-bei-mao-zi-yuan-wang\preview/feed.xml" rel="self" />
-    <link href="file:///C:\Users\秦克波\Downloads\1\shao-bei-mao-zi-yuan-wang\preview" />
+    <link href="https://shaobeimao.github.io/feed.xml" rel="self" />
+    <link href="https://shaobeimao.github.io" />
     <updated>2026-09-02T06:37:39+08:00</updated>
     <author>
         <name>烧杯猫</name>
     </author>
-    <id>file:///C:\Users\秦克波\Downloads\1\shao-bei-mao-zi-yuan-wang\preview</id>
+    <id>https://shaobeimao.github.io</id>
 
     <entry>
         <title>你好，欢迎来到我的博客！</title>
         <author>
             <name>烧杯猫</name>
         </author>
-        <link href="file:///C:\Users\秦克波\Downloads\1\shao-bei-mao-zi-yuan-wang\preview/ni-haohuan-ying-lai-dao-wo-de-bo-ke.html"/>
-        <id>file:///C:\Users\秦克波\Downloads\1\shao-bei-mao-zi-yuan-wang\preview/ni-haohuan-ying-lai-dao-wo-de-bo-ke.html</id>
+        <link href="https://shaobeimao.github.io/ni-haohuan-ying-lai-dao-wo-de-bo-ke.html"/>
+        <id>https://shaobeimao.github.io/ni-haohuan-ying-lai-dao-wo-de-bo-ke.html</id>
             <category term="生活随笔"/>
 
         <updated>2026-08-31T06:37:00+08:00</updated>
