@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\秦克波\Downloads\1\shao-bei-mao-zi-yuan-wang\preview/sitemap.xml
