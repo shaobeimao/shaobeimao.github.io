@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "d78f47279d0c4d1de6e0d7bc6f36c813"
+        "md5": "2668ab36f188847dd824db28f07b97c5"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/shao-bei-mao/index.html",
         "type": "file",
-        "md5": "7596a9cba4dcda1d5c289a57165dc2db"
+        "md5": "0bbe02c966dd00cadc9f2db12c5e3108"
     },
     {
         "path": "feed.json",
@@ -97,12 +97,27 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b80727327aebf63b33c11a82b194ae22"
+        "md5": "8f1b7c36a564dda01346d6b98fb2aec2"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/favicon-2.ico",
+        "type": "file",
+        "md5": "814862c3e0fb33dbff9f420703eef975"
     },
     {
         "path": "ni-haohuan-ying-lai-dao-wo-de-bo-ke.html",
         "type": "file",
-        "md5": "95470bf61455e14d49e380f5927d295f"
+        "md5": "07efb2676aa234a61a434dc3ccfb85b4"
     },
     {
         "path": "robots.txt",
@@ -127,7 +142,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "cda9e83798ef3953ef5302d10c5d3fa1"
+        "md5": "0faf49fb7cb932772eeb403a96abbc2f"
     },
     {
         "path": "tags/sheng-huo-sui-bi",
@@ -137,6 +152,6 @@
     {
         "path": "/tags/sheng-huo-sui-bi/index.html",
         "type": "file",
-        "md5": "480bfb57a5295933f7961d9d9e40ba85"
+        "md5": "f649d22e056eb98c1cfa2ecc69775c1a"
     }
 ]
